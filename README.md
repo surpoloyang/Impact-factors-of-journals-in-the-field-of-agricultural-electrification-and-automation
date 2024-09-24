@@ -13,3 +13,6 @@
 |                  CHEMOSENSORS                  |       MDPI       | 3.7（2023）3.7（five years）  |
 |             APPLIED SCIENCES-BASEL             |       MDPI       | 2.5（2023）2.7（five years）  |
 |                  PLANTS-BASEL                  |       MDPI       |  4（2023）4.4（five years）   |
+|IEEE Transactions on Geoscience and Remote Sensing|       IEEE       |  7.5（2023）5.4（five years）   |
+|             Analytica Chimica Acta             |     ELSEVIER     |  5.7（2023）5.4（five years） |
+
