@@ -17,3 +17,9 @@
 |             Analytica Chimica Acta             |     ELSEVIER     |  5.7（2023）5.4（five years） |
 |        IEEE Internet of Things Journal         |       IEEE       | 8.2（2023）7.3（five years）  |
 |     Artificial Intelligence in Agriculture     |       KEAI       | 8.2（2023）7.8（five years）  |
+|         Smart Agricultural Technology          |     ELSEVIER     | 6.3（2023）6.3（five years）  |
+|                AGRONOMY-BASEL                  |       MDPI       | 3.3（2023）3.7（five years）  |
+|               CLUSTER COMPUTING                |     SPRINGER     | 3.6（2023）2.2（five years）  |
+|                SUSTAINABILITY                  |       MDPI       | 3.3（2023）3.6（five years）  |
+|        EXPERT SYSTEMS WITH APPLICATIONS        |     Pergamon     | 7.5（2023）7.6（five years）  |
+|         IEEE INTERNET OF THINGS JOURNAL        |     IEEE-INST    |  8.2（2023）9（five years）   |
