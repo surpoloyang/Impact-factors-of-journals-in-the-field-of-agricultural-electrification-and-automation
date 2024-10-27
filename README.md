@@ -24,5 +24,4 @@
 |        EXPERT SYSTEMS WITH APPLICATIONS        |     Pergamon     | 7.5（2023）7.6（five years）  |
 |         IEEE INTERNET OF THINGS JOURNAL        |     IEEE-INST    |  8.2（2023）9（five years）   |
 |             Biosystems Engineering             |     ELSEVIER     | 4.4（2023）5.2（five years）  |
-|          Smart Agricultural Technology         |     ELSEVIER     | 6.3（2023）6.3（five years）  |
 |ISPRS Journal of Photogrammetry and Remote Sensing|     ELSEVIER     | 10.6（2023）11.8（five years）  |
