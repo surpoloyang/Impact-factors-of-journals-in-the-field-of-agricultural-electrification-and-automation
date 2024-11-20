@@ -9,6 +9,7 @@
 |        SCIENCE OF THE TOTAL ENVIRONMENT        |     ELSEVIER     | 8.2（2023）8.6（five years）  |
 |                    SENSORS                     |       MDPI       | 3.4（2023）3.7（five years）  |
 |                  PLANTS-BASEL                  |       MDPI       |  4（2023）4.4（five years）   |
+|                 Remote Sensing                 |       MDPI       |  4.2（2023）4.9（five years）   |
 |                  MEASUREMENT                   |     ELSEVIER     | 5.2（2023）4.8（five years）  |
 |                  CHEMOSENSORS                  |       MDPI       | 3.7（2023）3.7（five years）  |
 |             APPLIED SCIENCES-BASEL             |       MDPI       | 2.5（2023）2.7（five years）  |
